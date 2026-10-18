@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+:root{font-family:Montserrat,Arial,sans-serif;color:#141920;background:#f6f8fb}
+*{box-sizing:border-box}body{margin:0}button,input,select,textarea{font:inherit}button{cursor:pointer}a{color:inherit}
+:focus-visible{outline:3px solid #0bc4e9;outline-offset:3px}
+.login-wrap{min-height:100dvh;display:grid;grid-template-columns:1fr 1fr;background:white}
+.login-visual{background:linear-gradient(140deg,#03c4e8,#00a4d6);padding:70px;position:relative;overflow:hidden;color:#07364c;display:flex;flex-direction:column;justify-content:space-between}
+.login-visual:before{content:'';width:620px;height:620px;border:100px solid rgba(255,255,255,.19);border-radius:50%;position:absolute;right:-200px;bottom:-270px}
+.login-mark{font-size:39px;font-weight:900;letter-spacing:-3px;color:#fff}.login-mark b{color:#ffe437}
+.login-visual h1{font-size:clamp(38px,4vw,70px);line-height:1.04;letter-spacing:-3px;margin:0 0 22px;max-width:620px}
+.login-visual p{line-height:1.75;font-weight:500;max-width:500px}
+.login-form{align-self:center;justify-self:center;max-width:430px;width:calc(100% - 60px)}
+.eyebrow{color:#008ead;letter-spacing:2px;font-size:11px;text-transform:uppercase;font-weight:900}
+.login-form h2{font-size:36px;letter-spacing:-1.7px;margin:13px 0}
+.login-form p{color:#657384;line-height:1.6;font-size:14px;margin-bottom:35px}
+.field{display:flex;flex-direction:column;gap:8px;margin-bott¶»§q«^
